@@ -13,3 +13,7 @@ spring:
     console:
       enabled: true
       path: /h2-console
+app:
+  config:
+    variavel: valor da variavel X
+    valor1: 500
